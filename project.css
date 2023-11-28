@@ -1,0 +1,31 @@
+ul {
+    list-style: none; 
+    margin-top:25px;
+    padding: 1em 0;
+  height: 50px;
+ 
+  }
+  .section { 
+    text-decoration: none !important; 
+    color: black;
+    padding: 15px 15px;
+    font-family: Georgia, serif;
+    line-height:50px;
+}
+nav {
+    display: block;
+    width: 660px;
+    margin: 0 auto 30px;
+    background-color:  #ecdcd7;
+  }
+  li {
+    float:left;
+    margin-right:5px;
+    margin-left: 75px;
+  }
+  a:hover {
+    background: #e9d0ca;
+  }
+  table [
+    border=0px;
+  ]
